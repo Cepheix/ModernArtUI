@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\ModerArtUiv2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\Android\ModerArtUiv2\app\build\intermediates\pre-dexed\debug\classes-17b4b7600dd3dca5e5224c69523035190c3ba975.jar" />
+    </item>
+    <item
+        jar="E:\Android\ModerArtUiv2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\Android\ModerArtUiv2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-ab07b3e00748b6f6119e7d9b92085242dad5f73c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Piotrek\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\Android\ModerArtUiv2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-455480f8e0830bf0c748c4bed7a9f0dde79d0e1b.jar" />
+    </item>
+    <item
+        jar="E:\Android\ModerArtUiv2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\Android\ModerArtUiv2\app\build\intermediates\pre-dexed\debug\classes-4b5eebf83f7b562d01dd6a1058a219efde83cd54.jar" />
+    </item>
+
+</items>
