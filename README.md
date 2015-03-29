@@ -1,15 +1,6 @@
 # ModernArtUI
 Project for Programming Mobile Applications for Android Handheld Systems: Part 1 course on coursera
 
-#Example
-
-Main activity of the application
-
-//TODO parse img url here
-
-Screencast showing the application
-
-//TODO parse video img url here
 
 #Contributing
 You can contribute through GitHub by forking the repository and sending a pull request.
